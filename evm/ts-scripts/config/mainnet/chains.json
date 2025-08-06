@@ -30,6 +30,12 @@
       "evmNetworkId": 8453,
       "chainId": 30,
       "rpc": "https://mainnet.base.org"
+    },
+    {
+      "description": "Unichain",
+      "evmNetworkId": 130,
+      "chainId": 44,
+      "rpc": "https://unichain.drpc.org"
     }
   ]
 }
