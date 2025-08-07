@@ -23,6 +23,10 @@
     {
       "chainId": 44,
       "address": "0xCa1D5a146B03f6303baF59e5AD5615ae0b9d146D"
+    },
+    {
+      "chainId": 47,
+      "address": "0x7C0faFc4384551f063e05aee704ab943b8B53aB3"
     }
   ],
   "WormholeRelayers": [
@@ -175,6 +179,10 @@
     {
       "address": "0x574B7864119C9223A9870Ea614dC91A8EE09E512",
       "chainId": 44
+    },
+    {
+      "address": "0x574B7864119C9223A9870Ea614dC91A8EE09E512",
+      "chainId": 47
     }
   ]
 }
