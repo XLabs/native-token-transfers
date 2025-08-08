@@ -36,6 +36,12 @@
       "evmNetworkId": 130,
       "chainId": 44,
       "rpc": "https://unichain.drpc.org"
+    },
+    {
+      "description": "HyperEVM",
+      "evmNetworkId": 999,
+      "chainId": 47,
+      "rpc": "https://hyperliquid.drpc.org"
     }
   ]
 }
